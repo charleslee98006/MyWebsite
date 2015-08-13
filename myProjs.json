@@ -1,0 +1,21 @@
+[
+    {
+        "name": "CS4803 - Waves",
+        "teaser": "Generated Waves Using Cubemaps with specular lighting",
+        "link": "",
+        "image": "images/CS4903HW4.png",
+        "info": "This is where the full description goes into."
+    },
+    {
+        "name": "CS4475 - Video Texture",
+        "teaser": "Attempted to create sprite images from gif video texture and from frame looping technique.",
+        "link": "",
+        "image": "images/CS4475FinalProject.png"
+    },
+    {
+        "name": "CS3705 - Preceptate",
+        "teaser": "Created a mock-up tool model utilizing Seattle closed police DB and compare with media and people's perceptions.",
+        "link": "",
+        "image": "images/CS3705FinalProject.png"
+    }
+]
